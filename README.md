@@ -1,4 +1,4 @@
-# Hi!! I am Israel Joaquim (israelcoder).
+# Hi!! I am Israel Joaquim.
 
 - Desenvolvedor Web
 - Front-end
